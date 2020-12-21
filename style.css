@@ -20,7 +20,7 @@ h2 {
 }
 p {
   font-family: "Merriweather", serif;
-  font-size: 14px;
+  font-size: 13px;
 }
 nav {
   font-family: "Merriweather", serif;
@@ -35,6 +35,9 @@ a:link {
 }
 a:visited {
   color: rgb(3, 73, 50);
+}
+a.current {
+  color: rgb(75, 75, 75);
 }
 a:active {
   color: rgb(70, 7, 122);
