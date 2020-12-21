@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300&family=Langar&family=Merriweather&display=swap');
+.cards img {
+  max-height: 175px;
+  border: 3px solid rgb(4, 57, 82);
+}
+.logo {
+  height: 90px;
+  float: left;
+  margin-right: 10px;
+} 
+h1 {
+  font-family: "Langar", fantasy;
+  font-size: 32px;
+  color: rgb(18, 63, 75);
+}
+h2 {
+  font-family: "DM Mono", monospace;
+  font-size: 26px;
+  color: rgb(2, 97, 65);
+}
+p {
+  font-family: "Merriweather", serif;
+  font-size: 14px;
+}
+nav {
+  font-family: "Merriweather", serif;
+  font-size: 15px;
+  color: rgb(17, 65, 80);
+}
+html {
+  background-color: rgb(68, 165, 149);
+}
+a:link {
+  color: rgb(103, 3, 122)
+}
+a:visited {
+  color: rgb(3, 73, 50);
+}
+a:active {
+  color: rgb(70, 7, 122);
+}
+li {
+  margin-bottom: 10px;
+}
